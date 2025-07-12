@@ -22,7 +22,7 @@ An interactive notebook interface (like Jupyter) built using **React**, **Zustan
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/interactive-workbench.git
+git clone https://github.com/aman-638/interactive-workbench.git
 cd interactive-workbench
 ```
 
